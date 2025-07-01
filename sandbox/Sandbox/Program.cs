@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Sandbox Project.");
+        // This is a simple C# program that prints "Hello World!" to the console.
+        Console.WriteLine("Hello World!");
     }
 }
